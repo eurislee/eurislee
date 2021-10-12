@@ -47,11 +47,17 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<div>
+    <summary>
+      <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+      <strong>GitHub Profile Stats</strong>
+    </summary>
+</div>
 <div align="center">
-    <a href="https://github.com/eurislee"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=eurislee&theme=tokyonight&show_icons=true&&bg_color=0xffffff&include_all_commits=true&count_private=true&hide_border=true" /></a>
+    <a href="https://github.com/eurislee"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=eurislee&theme=tokyonight&show_icons=true&&bg_color=0xffffff&include_all_commits=true&count_private=true&hide_border=true" /></a>
     <a href="https://github.com/eurislee"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurislee&langs_count=8&layout=compact&theme=tokyonight&bg_color=0xffffff&hide_border=true" /></a>
 </div>
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eurislee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eurislee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eurislee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eurislee&theme=minimal&hide_border=true" /></a>
