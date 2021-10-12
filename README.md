@@ -66,6 +66,23 @@
 </p>
 </details>
 
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br>
+
+<p align="center">
+  <a href="https://github.com/eurislee">
+    <img alt="Eurislee's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=eurislee&show_icons=true&hide_border=true&title_color=94b4a4&amp&theme=tokyonight&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/eurislee">
+    <img alt="Eurislee's Top Languages" align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurislee&langs_count=8&layout=compact&hide_border=true" />
+  </a>
+</p>
+</details>
+
 <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
