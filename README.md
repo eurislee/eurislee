@@ -47,43 +47,11 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+    <a href="https://github.com/eurislee"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=eurislee&theme=tokyonight&show_icons=true&&bg_color=0xffffff&include_all_commits=true&count_private=true&hide_border=true" /></a>
+    <a href="https://github.com/eurislee"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurislee&langs_count=8&layout=compact&theme=tokyonight&bg_color=0xffffff&hide_border=true" /></a>
+</div>
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>GitHub Profile Stats</strong>
-</summary>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/eurislee">
-    <img alt="Eurislee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eurislee&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0xffffff"/>
-  </a>
-  <a href="https://github.com/eurislee">
-    <img alt="Eurislee's Top Languages" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurislee&langs_count=8&layout=compact&hide_border=true"/>
-  </a>
-</p>
-</details>
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
-
-<p align="center">
-  <a href="https://github.com/eurislee">
-    <img alt="Eurislee's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=eurislee&show_icons=true&hide_border=true&title_color=94b4a4&amp&theme=tokyonight&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/eurislee">
-    <img alt="Eurislee's Top Languages" align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurislee&langs_count=8&layout=compact&hide_border=true" />
-  </a>
-</p>
-</details>
-
-<br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eurislee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eurislee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
