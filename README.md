@@ -73,6 +73,11 @@
 
 ## 📖 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [ToDo List](https://euris.me/2021/08/12/todo/)
+- [The Real Analysis Lifesaver](https://euris.me/2021/08/12/textbook_solutions/en_us/the_real_analysis_lifesaver/)
+- [C语言程序设计：现代方法](https://euris.me/2021/08/12/textbook_solutions/zh_cn/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%9A%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%95/)
+- [离散数学及其应用](https://euris.me/2021/08/12/textbook_solutions/zh_cn/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/)
+- [计算机科学导论](https://euris.me/2021/08/12/textbook_solutions/zh_cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎈 Recent GitHub Activity
