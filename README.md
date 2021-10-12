@@ -40,7 +40,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/eurislee/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/eurislee/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="eurislee's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eurislee&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Eurislee's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eurislee&theme=monokai-light&hide_border=true"/>
   </a>
 </p>
 
@@ -69,4 +69,4 @@
 <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="eurislee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eurislee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eurislee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eurislee&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
