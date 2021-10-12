@@ -42,7 +42,7 @@
 ## 🔥 Streak stats
 
 <div align="center">
-    <img alt="EurisLee's trophy" src="https://github-profile-trophy.vercel.app/?username=eurislee&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
+    <img alt="EurisLee's trophy" src="https://github-profile-trophy.vercel.app/?username=eurislee&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=tokyonight">
 </div>
 
 <!-- GitHub Readme Streak Stats - https://github.com/eurislee/github-readme-streak-stats -->
