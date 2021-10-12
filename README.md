@@ -40,24 +40,23 @@
 <!-- GitHub Readme Streak Stats - https://github.com/eurislee/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/eurislee/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Eurislee's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eurislee&theme=monokai-light&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EurisLee's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eurislee&theme=monokai-light&hide_border=true"/>
   </a>
 </p>
 
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<div>
-    <summary>
+<div align="center">
+    <div>
       <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
       <strong>GitHub Profile Stats</strong>
-    </summary>
+    </div>
+    <a href="https://github.com/eurislee"><img alt="EurisLee's Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=eurislee&theme=tokyonight&show_icons=true&&bg_color=0xffffff&include_all_commits=true&count_private=true&hide_border=true" /></a>
+    <a href="https://github.com/eurislee"><img alt="EurisLee's Top Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurislee&langs_count=8&layout=compact&theme=tokyonight&bg_color=0xffffff&hide_border=true" /></a>
 </div>
-<div align="center">
-    <a href="https://github.com/eurislee"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=eurislee&theme=tokyonight&show_icons=true&&bg_color=0xffffff&include_all_commits=true&count_private=true&hide_border=true" /></a>
-    <a href="https://github.com/eurislee"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurislee&langs_count=8&layout=compact&theme=tokyonight&bg_color=0xffffff&hide_border=true" /></a>
-</div>
-
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eurislee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eurislee&theme=minimal&hide_border=true" /></a>
+<div>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="EurisLee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eurislee&theme=minimal&hide_border=true" /></a>
+</div>
