@@ -40,12 +40,18 @@
 </div>
 
 ## 🔥 Streak stats
-
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=eurislee&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/eurislee)
 <!-- GitHub Readme Streak Stats - https://github.com/eurislee/github-readme-streak-stats -->
 <div align="center">
   <a href="https://github.com/eurislee/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EurisLee's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eurislee&theme=monokai-light&hide_border=true"/>
   </a>
+</div>
+
+## 📚 My top open source projects
+
+<div align="left">
+
 </div>
 
 ## 📊 Github stats
@@ -64,3 +70,11 @@
 <div>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="EurisLee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eurislee&theme=minimal&hide_border=true&area=true" /></a>
 </div>
+
+## 📖 Latest Blog Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🎈 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
