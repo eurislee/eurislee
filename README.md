@@ -58,10 +58,10 @@
 
 <p align="center">
   <a href="https://github.com/eurislee">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eurislee&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0xffffff&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eurislee&show_icons=true&hide_border=true&amp&theme=tokyonight&amp&bg_color=0xffffff&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/eurislee">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurislee&langs_count=8&layout=compact&hide_border=true" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurislee&langs_count=8&layout=compact&hide_border=true"/>
   </a>
 </p>
 </details>
