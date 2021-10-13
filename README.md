@@ -45,7 +45,6 @@
     <img alt="EurisLee's trophy" src="https://github-profile-trophy.vercel.app/?username=eurislee&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=tokyonight">
 </div>
 
-<!-- GitHub Readme Streak Stats - https://github.com/eurislee/github-readme-streak-stats -->
 <div align="center">
   <a href="https://github.com/eurislee/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EurisLee's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eurislee&theme=monokai-light&hide_border=true"/>
@@ -58,9 +57,12 @@
 
 </div>
 
+<div align="left">
+  <a href="https://github.com/eurislee?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</div>
+
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
     <div>
       <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -70,7 +72,6 @@
     <a href="https://github.com/eurislee"><img alt="EurisLee's Top Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurislee&langs_count=8&layout=compact&theme=tokyonight&bg_color=0xffffff&hide_border=true" /></a>
 </div>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <div>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="EurisLee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eurislee&theme=minimal&hide_border=true&area=true" /></a>
 </div>
@@ -83,6 +84,10 @@
 - [离散数学及其应用](https://euris.me/2021/08/12/textbook_solutions/zh_cn/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/)
 - [计算机科学导论](https://euris.me/2021/08/12/textbook_solutions/zh_cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="left">
+  <a href="https://euris.me"><img alt="All Posts" title="All Posts" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Posts-2962FF?style=for-the-badge&logoColor=white&logo=book"/></a>
+</div>
 
 ## 🎈 Recent GitHub Activity
 <!--START_SECTION:activity-->
