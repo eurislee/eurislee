@@ -85,13 +85,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎈 Recent GitHub Activity
-<!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [eurislee/aur](https://github.com/eurislee/aur)
-2. 🤝 Became collaborator on [eurislee/celvalin](https://github.com/eurislee/celvalin)
-3. 📔 Created new repository [eurislee/celvalin](https://github.com/eurislee/celvalin)
-4. 📔 Created new repository [eurislee/kristy](https://github.com/eurislee/kristy)
-5. 📔 Created new repository [eurislee/vim-markdown-preview](https://github.com/eurislee/vim-markdown-preview)
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 12th, 2021, 9:17:05 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

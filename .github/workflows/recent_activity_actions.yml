@@ -2,7 +2,7 @@ name: Github activity readme actions
 
 on:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@main
+      - uses: eurislee/github_activity_readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
