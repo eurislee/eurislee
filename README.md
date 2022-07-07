@@ -82,7 +82,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <div align="left">
-  <a href="https://euris.me"><img alt="All Posts" title="All Posts" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Posts-2962FF?style=for-the-badge&logoColor=white&logo=book"/></a>
+  <a href="https://euris.me/blog/"><img alt="All Posts" title="All Posts" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Posts-2962FF?style=for-the-badge&logoColor=white&logo=book"/></a>
 </div>
 
 ## 🎈 Recent GitHub Activity
