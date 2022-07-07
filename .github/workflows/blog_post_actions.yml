@@ -15,4 +15,4 @@ jobs:
       - name: Pull in euris.me posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://euris.me/feed.json"
+          feed_list: "https://euris.me/blog/feed.json"
