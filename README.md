@@ -78,7 +78,7 @@
 
 ## 📖 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [starry-ui](https://euris.me/blog/starry-ui)
+- [To-Do List](https://euris.me/blog/todo-list)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="left">
