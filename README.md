@@ -78,6 +78,7 @@
 
 ## 📖 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [软件设计师笔记](https://euris.me/blog/software-designer-exam)
 - [To-Do List](https://euris.me/blog/todo-list)
 <!-- BLOG-POST-LIST:END -->
 
