@@ -53,11 +53,17 @@
 
 ## 📚 My top open source projects
 
-<div align="left">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eurislee&repo=amethyst&&show_owner=true)](https://github.com/eurislee/amethyst)
+<div align="center">
+  <a href="https://github.com/eurislee/amethyst">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurislee&repo=amethyst&title_color=030027&icon_color=030027" />
+  </a>
+  <a href="https://github.com/eurislee/starry_ui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurislee&repo=starry_ui&title_color=030027&icon_color=030027" />
+  </a>
 </div>
 
-<div align="left">
+
+<div align="center">
   <a href="https://github.com/eurislee?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </div>
 
