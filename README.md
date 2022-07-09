@@ -81,6 +81,7 @@
 
 ## 📖 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [程序设计入门-JavaScript实现](https://euris.me/blog/程序设计入门-JavaScript实现)
 - [软件设计师笔记](https://euris.me/blog/software-designer-exam)
 - [To-Do List](https://euris.me/blog/todo-list)
 <!-- BLOG-POST-LIST:END -->
