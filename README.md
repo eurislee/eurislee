@@ -54,12 +54,9 @@
 ## 📚 My top open source projects
 
 <div align="center">
-  <a href="https://github.com/eurislee/amethyst">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurislee&repo=amethyst&title_color=030027&icon_color=030027" />
-  </a>
-  <a href="https://github.com/eurislee/starry_ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurislee&repo=starry_ui&title_color=030027&icon_color=030027" />
-  </a>
+  <a href="https://github.com/eurislee/amethyst"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eurislee&repo=amethyst&bg_color=0xffffff&title_color=70a5fd&icon_color=bf91f3&show_icons=false" alt="amethyst"></a>
+  <a href="https://github.com/eurislee/starry_ui"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eurislee&repo=starry_ui&bg_color=0xffffff&title_color=70a5fd&icon_color=bf91f3&show_icons=false" alt="starry_ui"></a>
+  <a href="https://github.com/eurislee/meris"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eurislee&repo=meris&bg_color=0xffffff&title_color=70a5fd&icon_color=bf91f3&show_icons=false" alt="meris"></a>
 </div>
 
 
