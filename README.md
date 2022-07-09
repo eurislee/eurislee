@@ -54,7 +54,7 @@
 ## 📚 My top open source projects
 
 <div align="left">
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eurislee&repo=amethyst&&show_owner=true)](https://github.com/eurislee/amethyst)
 </div>
 
 <div align="left">
