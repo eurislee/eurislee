@@ -81,9 +81,11 @@
 
 ## 📖 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [程序设计入门-JavaScript实现](https://euris.me/blog/textbook_solutions/程序设计入门-JavaScript实现)
+- [程序设计入门-JavaScript实现 中文版习题解答](https://euris.me/blog/textbook_solutions/程序设计入门-JavaScript实现-中文版习题解答)
+- [计算机科学导论（第四版） 中文版习题解答](https://euris.me/blog/textbook_solutions/计算机科学导论（第四版）- 中文版习题解答)
 - [To-Do List](https://euris.me/blog/todo_list)
 - [软件设计师笔记](https://euris.me/blog/软件设计师笔记)
+- [词根词缀记单词](https://euris.me/blog/books/english/词根词缀记单词)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="left">
