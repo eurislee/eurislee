@@ -36,6 +36,5 @@
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </div>
 
