@@ -38,3 +38,5 @@
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 </div>
 
+## 
+![LeetCode Stats](https://leetcode.card.workers.dev/eurislee?theme=default&font=source_code_pro&extension=activity)
