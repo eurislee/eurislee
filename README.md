@@ -44,14 +44,19 @@
 </div>
 
 ## 📊 Rank Status
-<div align="center">
-  <a href="https://github.com/eurislee#leetcode-card">
-    <img width="49%" height="193.39px" src="https://leetcard.jacoblin.cool/eurislee?theme=light&font=source_code_pro" alt="LeetCode Stats" />
-  </a>
-  <a href="https://github.com/eurislee#codewars-card">
-    <img width="49%" src="https://github.r2v.ch/codewars?user=Euris%20Lee&theme=light&stroke=%23e6e6e6" alt="Codewars"  />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/eurislee#leetcode-card">
+        <img src="https://leetcard.jacoblin.cool/eurislee?theme=light&font=source_code_pro" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eurislee#codewars-card">
+        <img src="https://github.r2v.ch/codewars?user=Euris%20Lee&theme=light&stroke=%23e6e6e6" alt="Codewars"  />
+      </a>
+    </td>
+</table>
 
 ## 📈 GitHub Activity Graph:
 
